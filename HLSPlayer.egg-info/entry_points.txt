@@ -1,0 +1,3 @@
+[console_scripts]
+hls-player = HLS.player:main
+

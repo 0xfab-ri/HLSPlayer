@@ -1,0 +1,14 @@
+AUTHORS
+LICENSE
+MANIFEST.in
+README
+setup.py
+HLS/__init__.py
+HLS/fetcher.py
+HLS/m3u8.py
+HLS/player.py
+HLSPlayer.egg-info/PKG-INFO
+HLSPlayer.egg-info/SOURCES.txt
+HLSPlayer.egg-info/dependency_links.txt
+HLSPlayer.egg-info/entry_points.txt
+HLSPlayer.egg-info/top_level.txt
